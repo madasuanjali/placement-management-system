@@ -1,8 +1,5 @@
 # placement-management-system
 Developed a Placement Management System for managing students, companies, job applications, and placement status using HTML, CSS, JavaScript, and SQL.
-# Placement Management System
-
-A web-based Placement Management System built using HTML, CSS, JavaScript, and SQL for managing student registrations, login, job listings, and placement records.
 
 ## Live Demo
 https://github.com/madasuanjali/placement-management-system.git
